@@ -4,6 +4,7 @@ class MyRunnable implements Runnable {
             System.out.print(i + " ");
         }
     }
+}
 
 public class RunnableThread {
    public static void main(String[] args) {
